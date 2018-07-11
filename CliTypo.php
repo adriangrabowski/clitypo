@@ -8,7 +8,7 @@ class CliTypo {
      * Get alert functions
      * @return CliAlert
      */
-    public static function alert() {
+    public function alert() {
         return new CliAlert();
     }
 
@@ -16,7 +16,7 @@ class CliTypo {
      * Get text functions
      * @return CliText
      */
-    public static function text() {
+    public function text() {
         return new CliText();
     }
 
@@ -24,7 +24,7 @@ class CliTypo {
      * Get component functions
      * @return CliComponent
      */
-    public static function component() {
+    public function component() {
         return new CliComponent();
     }
 
@@ -32,7 +32,7 @@ class CliTypo {
      * Get format functions
      * @return CliFormat
      */
-    public static function format() {
+    public function format() {
         return new CliFormat();
     }
 
