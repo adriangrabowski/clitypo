@@ -1,15 +1,15 @@
 {
-	"name":        "grabower/clitypo",
+	"name":        "adriangrabowski/clitypo",
 	"type":        "library",
-	"description": "CLI colors parser",
-	"homepage":    "https://bitbucket.org/adriangrabowski/grabower_clitypo/",
+	"description": "Typography functions for PHP CLI",
+	"homepage":    "https://github.com/adriangrabowski/clitypo",
 	"license":     "BSD-3-Clause",
-	"keywords":    ["kohana", "framework", "error", "view"],
+	"keywords":    ["php", "cli", "colors", "typography", "tables", "input"],
 	"authors": [
 		{
 			"name":     "Adrian Grabowski",
 			"email":    "adriangrabowski4@gmail.com",
-			"homepage": "https://bitbucket.org/adriangrabowski/kohana_errorview/",
+			"homepage": "https://github.com/adriangrabowski",
 			"role":     "developer"
 		}
 	],
@@ -24,8 +24,6 @@
 	},
 	"extra": {
 		"branch-alias": {
-			"dev-3.3/develop": "3.3.x-dev",
-			"dev-3.4/develop": "3.4.x-dev"
 		}
         }
 }
