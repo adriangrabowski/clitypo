@@ -1,5 +1,5 @@
 {
-	"name":        "adriangrabowski/clitypo",
+	"name":        "grabower/clitypo",
 	"type":        "library",
 	"description": "Typography functions for PHP CLI",
 	"homepage":    "https://github.com/adriangrabowski/clitypo",
