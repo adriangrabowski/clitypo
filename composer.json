@@ -1,0 +1,31 @@
+{
+	"name":        "grabower/clitypo",
+	"type":        "library",
+	"description": "CLI colors parser",
+	"homepage":    "https://bitbucket.org/adriangrabowski/grabower_clitypo/",
+	"license":     "BSD-3-Clause",
+	"keywords":    ["kohana", "framework", "error", "view"],
+	"authors": [
+		{
+			"name":     "Adrian Grabowski",
+			"email":    "adriangrabowski4@gmail.com",
+			"homepage": "https://bitbucket.org/adriangrabowski/kohana_errorview/",
+			"role":     "developer"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"php":                 ">=5.3.3"
+	},
+	"autoload": {
+		"classmap": [
+			""
+		]
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-3.3/develop": "3.3.x-dev",
+			"dev-3.4/develop": "3.4.x-dev"
+		}
+        }
+}
