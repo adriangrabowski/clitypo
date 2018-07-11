@@ -311,14 +311,14 @@ Show colorized text with background. Background can be null.
 Example:
 ```php
 $cliTypo->text()->color("Red text on yellow background", "red", "yellow");
-$cliTypo->text()->color("Red text on yellow background", "red");
+$cliTypo->text()->color("Red text", "red");
 ```
 
 Output:
 
 <span style="color:red; background: yellow; font-weight: bold">Red text on yellow background</span>
 
-<span style="color:red; font-weight: bold">Red text on yellow background</span>
+<span style="color:red; font-weight: bold">Red text</span>
 
 ### Format
 
