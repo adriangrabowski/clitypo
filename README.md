@@ -12,7 +12,7 @@ Add CliTypo to your project composer
 "repositories": [
    {
      "type": "vcs",
-        "url" : "https://bitbucket.org/adriangrabowski/grabower_clitypo.git"
+        "url" : "https://github.com/adriangrabowski/clitypo.git"
     }
 ],
 ```
